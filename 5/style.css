@@ -1,0 +1,72 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: monospace;
+	color: white;
+	font-size: 22px;
+
+}
+.wrapper {
+	width: 900px;
+	margin: 0 auto;
+
+
+
+}
+.header {
+	height: 130px;
+	background-color: black;
+	
+
+	
+
+
+
+}
+.aside1 {
+	width: 180px;
+	height: 600px;
+	background-color: blue;
+	float: left;
+	
+	
+
+
+
+}
+.content {
+	height: 600px;
+	width: 600px;
+
+	float: left;
+	
+	background-color: white;
+	
+	
+}
+
+
+.aside2 {
+	width: 150px;
+	height: 600px;
+	background-color: blue;
+	float: right;
+	clear: both;
+	
+	
+	
+
+
+
+}
+
+
+
+.footer {
+	height: 100px;
+	background-color: black;
+	
+	
+
+}
